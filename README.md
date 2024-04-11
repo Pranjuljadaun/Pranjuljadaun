@@ -1,10 +1,4 @@
-<h2 align="left">👨‍💻 **Pranjul Jadaun**, Software Developer proficient in Java, Swing, Spring Framework, Spring Boot, Spring JDBC, MySQL, HTML, CSS, and C Language. Passionate about creating efficient and innovative solutions. Let's code and collaborate! 🌟 #JavaDeveloper #SpringEnthusiast
-
-🔧 Skilled in designing user-friendly interfaces with Swing and crafting responsive web pages using HTML and CSS.
-💼 Experienced in developing robust applications with Spring Framework and Spring Boot, ensuring seamless database integration with Spring JDBC and MySQL.
-💻 Comfortable working with C Language, creating efficient and maintainable code for various platforms.
-🌐 Always eager to learn new technologies and contribute to open-source projects.
-🤝 Let's build something amazing together! 💻💡 #OpenSourceEnthusiast #FullStackDeveloper</h2>
+<h2 align="left">👨‍💻 **Pranjul Jadaun**, Software Developer proficient in Java, Swing, Spring Framework, Spring Boot, Spring JDBC, MySQL, HTML, CSS, and C Language. Passionate about creating efficient and innovative solutions. Let's code and collaborate! 🌟 #JavaDeveloper #SpringEnthusiast<br><br>🔧 Skilled in designing user-friendly interfaces with Swing and crafting responsive web pages using HTML and CSS.<br>💼 Experienced in developing robust applications with Spring Framework and Spring Boot, ensuring seamless database integration with Spring JDBC and MySQL.<br>💻 Comfortable working with C Language, creating efficient and maintainable code for various platforms.<br>🌐 Always eager to learn new technologies and contribute to open-source projects.<br>🤝 Let's build something amazing together! 💻💡 #OpenSourceEnthusiast #FullStackDeveloper</h2>
 
 ###
 
@@ -49,12 +43,6 @@
   <a href="@Pranjul_jadaun" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=pranjuljadaun&theme=gruvbox" alt="Layout with last medium posts"  />
 </div>
 
 ###
